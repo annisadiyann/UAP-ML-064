@@ -38,7 +38,8 @@ Matriks ini menunjukkan performa prediksi model pada data uji untuk setiap kelas
 
 | CNN Custom | VGG16 | ResNet50 |
 | :---: | :---: | :---: |
-| ![CM CNN](path/ke/gambar/cm_cnn.png) | ![CM VGG](path/ke/gambar/cm_vgg.png) | ![CM ResNet](path/ke/gambar/cm_resnet.png) |
+| ![CM CNN](path/ke/gambar/cm_cnn.png) | ![CM VGG] <img width="519" height="435" alt="image" src="https://github.com/user-attachments/assets/c83549fa-7560-4176-93a8-488858360955" />
+ | ![CM ResNet](path/ke/gambar/cm_resnet.png) |
 
 
 ### Learning Curves 📈
