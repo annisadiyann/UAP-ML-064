@@ -79,7 +79,9 @@ Jalankan perintah Streamlit untuk membuka dashboard:
 streamlit run src/app.py
 
 ```
-
+## 🔗 Link Live Demo
+Anda dapat mengakses aplikasi secara langsung melalui tautan berikut:
+[https://uap-ml-064.streamlit.app/](https://uap-ml-064.streamlit.app/)
 ---
 
 ## 🔗 Tautan Dataset
