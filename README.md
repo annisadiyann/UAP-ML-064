@@ -38,17 +38,15 @@ Matriks ini menunjukkan performa prediksi model pada data uji untuk setiap kelas
 
 | CNN Custom | VGG16 | ResNet50 |
 | :---: | :---: | :---: |
-| ![CM CNN](path/ke/gambar/cm_cnn.png) | ![CM VGG] <img width="519" height="435" alt="image" src="https://github.com/user-attachments/assets/c83549fa-7560-4176-93a8-488858360955" />
- | ![CM ResNet](path/ke/gambar/cm_resnet.png) |
+|<img width="1387" height="1489" alt="image" src="https://github.com/user-attachments/assets/b34d5f22-cb53-4997-bcfd-5151af9a1786" />|<img width="519" height="435" alt="image" src="https://github.com/user-attachments/assets/c83549fa-7560-4176-93a8-488858360955" />|<img width="777" height="836" alt="image" src="https://github.com/user-attachments/assets/d8749d11-af0c-401b-907b-d0a7a3d1c0a9" />|
 
 
 ### Learning Curves 📈
 Grafik di bawah ini menunjukkan proses belajar model (Loss & Accuracy) selama fase pelatihan dan validasi.
 
-| CNN Custom | VGG16 / ResNet50 |
+| CNN Custom | VGG16 | ResNet50 |
 | :---: | :---: |
-| ![Plot CNN](path/ke/gambar/plot_cnn.png) | ![Plot VGG](path/ke/gambar/plot_vgg.png) |
-
+|<img width="1189" height="390" alt="image" src="https://github.com/user-attachments/assets/c7c9f52f-a8ef-42e9-81ac-7130b849fcd7" />|<img width="990" height="374" alt="image" src="https://github.com/user-attachments/assets/52c5247b-2edc-4c1b-aae7-623aaf87a03e" />|<img width="565" height="435" alt="image" src="https://github.com/user-attachments/assets/9e440764-865a-4963-929c-235fe1b9f61a" />|
 
 ---
 
