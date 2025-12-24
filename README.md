@@ -39,25 +39,23 @@ Berikut adalah perbaikan kode untuk bagian **Evaluasi Model** Anda:
 
 ### 🔴 Evaluasi Model 🟢
 
-Di bawah ini adalah hasil evaluasi untuk ketiga model yang telah dilatih.
+Di bawah ini adalah hasil evaluasi performa untuk ketiga arsitektur model yang telah dilatih.
 
-### Confusion Matrix
+#### 1. Confusion Matrix
 
-Matriks ini menunjukkan performa prediksi model pada data uji untuk setiap kelas.
-
-| CNN Custom | VGG16 | ResNet50 |
-| --- | --- | --- |
-| <img src="[https://github.com/user-attachments/assets/b34d5f22-cb53-4997-bcfd-5151af9a1786](https://github.com/user-attachments/assets/b34d5f22-cb53-4997-bcfd-5151af9a1786)" width="300"> | <img src="[https://github.com/user-attachments/assets/c83549fa-7560-4176-93a8-488858360955](https://github.com/user-attachments/assets/c83549fa-7560-4176-93a8-488858360955)" width="300"> | <img src="[https://github.com/user-attachments/assets/d8749d11-af0c-401b-907b-d0a7a3d1c0a9](https://github.com/user-attachments/assets/d8749d11-af0c-401b-907b-d0a7a3d1c0a9)" width="300"> |
-
-### Learning Curves 📈
-
-Grafik di bawah ini menunjukkan proses belajar model (Loss & Accuracy) selama fase pelatihan dan validasi.
+Matriks ini menunjukkan ketepatan prediksi model pada data uji untuk setiap kelas rumah adat.
 
 | CNN Custom | VGG16 | ResNet50 |
 | --- | --- | --- |
-| <img src="[https://github.com/user-attachments/assets/c7c9f52f-a8ef-42e9-81ac-7130b849fcd7](https://github.com/user-attachments/assets/c7c9f52f-a8ef-42e9-81ac-7130b849fcd7)" width="300"> | <img src="[https://github.com/user-attachments/assets/52c5247b-2edc-4c1b-aae7-623aaf87a03e](https://github.com/user-attachments/assets/52c5247b-2edc-4c1b-aae7-623aaf87a03e)" width="300"> | <img src="[https://github.com/user-attachments/assets/9e440764-865a-4963-929c-235fe1b9f61a](https://github.com/user-attachments/assets/9e440764-865a-4963-929c-235fe1b9f61a)" width="300"> |
+| <img src="CM CNN.png" width="300"> | <img src="CM VGG.png" width="300"> | <img src="CM RESNET.png" width="300"> |
 
----
+#### 2. Learning Curves 📈
+
+Grafik di bawah ini menunjukkan proses belajar model (Loss & Accuracy) selama fase pelatihan (*training*) dan validasi (*validation*).
+
+| CNN Custom | VGG16 | ResNet50 |
+| --- | --- | --- |
+| <img src="PLOT CNN.png" width="300"> | <img src="VGG PLOT.png" width="300"> | <img src="PLOT RES.png" width="300"> |
 
 ## 📈 Analisis Perbandingan
 
