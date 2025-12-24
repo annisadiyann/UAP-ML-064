@@ -4,7 +4,7 @@ Proyek ini merupakan sistem identifikasi jenis rumah adat Indonesia berbasis cit
 
 ## 📋 Daftar Isi
 
-1. [Deskripsi Proyek](#deskripsi-proyek)
+1. [Deskripsi Proyek](##deskripsi-proyek)
 2. [Dataset dan Preprocessing](#dataset-dan-preprocessing)
 3. [Penjelasan Model](#penjelasan-model)
 4. [Hasil Evaluasi dan Analisis Perbandingan](#hasil-evaluasi-dan-analisis-perbandingan)
