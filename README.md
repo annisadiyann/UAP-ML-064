@@ -3,6 +3,7 @@
 Proyek ini merupakan sistem identifikasi jenis rumah adat Indonesia berbasis citra menggunakan tiga arsitektur *Deep Learning*: **CNN Custom**, **VGG16**, dan **ResNet50**. Sistem ini dilengkapi dengan dashboard interaktif berbasis web menggunakan **Streamlit**.
 
 ## 📋 Daftar Isi
+
 1. [Deskripsi Proyek](#deskripsi-proyek)
 2. [Dataset](#dataset)
 3. [Preprocessing](#preprocessing)
