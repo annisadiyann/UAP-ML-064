@@ -30,14 +30,6 @@ Proyek ini bertujuan untuk mengklasifikasikan 5 jenis rumah adat: **Gadang, Hona
 
 ---
 
-Tampilan tabel Anda terlihat berantakan karena nilai atribut `width` dan `height` yang ada pada tag `<img>` saat ini mengikuti resolusi asli gambar yang sangat besar (seperti `1387x1489`). GitHub akan mencoba menampilkan ukuran tersebut apa adanya kecuali kita membatasinya.
-
-Untuk menyamakan ukurannya agar rapi dan simetris, Anda perlu menghapus atribut `height` dan mengatur `width` ke angka yang sama (misalnya `300` atau `100%`).
-
-Berikut adalah perbaikan kode untuk bagian **Evaluasi Model** Anda:
-
----
-
 ### 🔴 Evaluasi Model 🟢
 
 Di bawah ini adalah hasil evaluasi performa untuk ketiga arsitektur model yang telah dilatih.
@@ -48,7 +40,7 @@ Matriks ini menunjukkan ketepatan prediksi model pada data uji untuk setiap kela
 
 | CNN Custom | VGG16 | ResNet50 |
 | --- | --- | --- |
-| <img src="CM CNN.png" width="300"> | <img src="CM VGG.png" width="300"> | <img src="CM RESNET.png" width="300"> |
+| <img src="assets/CM%20CNN.png" width="300"> | <img src="assets/CM%20VGG.png" width="300"> | <img src="assets/CM%20RESNET.png" width="300"> |
 
 #### 2. Learning Curves 📈
 
@@ -56,7 +48,9 @@ Grafik di bawah ini menunjukkan proses belajar model (Loss & Accuracy) selama fa
 
 | CNN Custom | VGG16 | ResNet50 |
 | --- | --- | --- |
-| <img src="PLOT CNN.png" width="300"> | <img src="VGG PLOT.png" width="300"> | <img src="PLOT RES.png" width="300"> |
+| <img src="assets/PLOT%20CNN.png" width="300"> | <img src="assets/VGG%20PLOT.png" width="300"> | <img src="assets/PLOT%20RES.png" width="300"> |
+
+---
 
 ## 📈 Analisis Perbandingan
 
