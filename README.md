@@ -40,7 +40,7 @@ Matriks ini menunjukkan ketepatan prediksi model pada data uji untuk setiap kela
 
 | CNN Custom | VGG16 | ResNet50 |
 | --- | --- | --- |
-| <img src="assets/CM%20CNN.png" width="300"> | <img src="assets/CM%20VGG.png" width="300"> | <img src="assets/CM%20RESNET.png" width="300"> |
+| <img src="Assets/CM%20CNN.png" width="300"> | <img src="Assets/CM%20VGG.png" width="300"> | <img src="Assets/CM%20RESNET.png" width="300"> |
 
 #### 2. Learning Curves 📈
 
@@ -48,7 +48,7 @@ Grafik di bawah ini menunjukkan proses belajar model (Loss & Accuracy) selama fa
 
 | CNN Custom | VGG16 | ResNet50 |
 | --- | --- | --- |
-| <img src="assets/PLOT%20CNN.png" width="300"> | <img src="assets/VGG%20PLOT.png" width="300"> | <img src="assets/PLOT%20RES.png" width="300"> |
+| <img src="Assets/PLOT%20CNN.png" width="300"> | <img src="Assets/VGG%20PLOT.png" width="300"> | <img src="Assets/PLOT%20RES.png" width="300"> |
 
 ---
 
